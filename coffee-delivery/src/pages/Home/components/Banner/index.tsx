@@ -6,7 +6,7 @@ import {
 } from './styles'
 
 import coffeeCupImg from '../../../../assets/coffee-cup.svg'
-import { BoundingBox, Package, ShoppingCart } from 'phosphor-react'
+import { Package, ShoppingCart } from 'phosphor-react'
 
 export function Banner() {
   return (
